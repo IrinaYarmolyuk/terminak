@@ -1,9 +1,13 @@
-cd
+#!/bin/bash
+
 pwd
-mkdir
-rm
-ls
-mv
-touch
-tail
-grep
+cd ..
+cd Desktop
+mkdir fold1
+cd fold1
+Mkdir f1 f2 f3
+cd f1
+touch 1.txt 2.txt 3.txt 4.json 
+mkdir ff1 ff2 ff3 
+ls -a
+mv 1.txt 2.txt ff1
