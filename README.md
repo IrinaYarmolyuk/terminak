@@ -1,1 +1,1 @@
-# terminak
+# terminal
