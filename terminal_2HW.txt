@@ -1,0 +1,56 @@
+mkdir dir_1
+cd dir_1
+mkdir inner_dir_1
+pwd
+touch tf_1.txt
+cat > tf_2.txt
+the first 1
+the second 2
+the third 3
+cd inner_dir_1
+cat > tf_3.txt
+1
+2
+3
+4
+cat >>  tf_3.txt 
+second 2
+the sec 2
+the sec 3
+the SeCoNd 2
+the seConD 2
+cat > tf_4.txt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1   
+2
+3
+4
+5
+cat > tF_5.txt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+ls
+less tf_3.txt 
+cd ..
+less ~/Desktop/dir_1/inner_dir_1/tf_3.txt 
+find . -name "tf_4.txt"
