@@ -73,4 +73,5 @@ the seConD 2
 33) tail -n 4 tf_3 —\ копия.txt
 34) head -4 tf_3 —\ копия.txt
 35) mkdir dir3; cd dir3; touch file3.txt; echo '123' > file3.txt
+40) echo 'Not a good job'
 
